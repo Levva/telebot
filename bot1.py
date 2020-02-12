@@ -7,7 +7,7 @@ from telegram.ext import Filters
 
 
 
-TG_TOKEN = '1045427310:AAHFS0cyYtvPvsNh3VkX2FbTVZp5g9o57Gw'
+TG_TOKEN = 'XХX'
 
 
 def message_handler(bot: Bot, update: Update):
